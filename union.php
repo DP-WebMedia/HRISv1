@@ -11,5 +11,9 @@ function module2() {
 }
 
 //Module Two goes here ----------------------------------
+
+function module2() {
+    echo "module made after sync";
+}
     
 ?>
